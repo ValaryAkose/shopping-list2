@@ -6,4 +6,9 @@ pringles
 chevda
 yoghut
 crisps
-
+cooking flour
+maize flour
+rice
+ketchup
+onions
+salt
