@@ -12,3 +12,9 @@ rice
 ketchup
 onions
 salt
+detol
+vim
+jik
+bar soap
+air freshner
+
